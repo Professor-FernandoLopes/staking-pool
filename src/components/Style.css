@@ -1,0 +1,25 @@
+/* Styles go here */
+.id {
+  border-radius: 50%;
+}
+
+.bgDark6 {
+  background-color: #606060;
+}
+
+.bgDark5 {
+  background-color: #505050;
+}
+
+.bgDark4 {
+  background-color: #404040;
+}
+
+.bgDark3 {
+  background-color: #303030;
+}
+
+.modal-ku {
+  width: 750px;
+  margin: auto;
+}
